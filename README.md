@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KatyaTopchieva
+- 👀 I’m interested in  front-end development.
+- 🌱 I am actively studying HTML5, CSS, JavaScript, React, Node.js and other developer tools.
+- 💞️ My development experience is represented by several projects: https://katyatopchieva.github.io/russian-travel/, https://katyatopchieva.github.io/mesto-react/б https://katyatopchieva.github.io/react-mesto-auth/
+-  👯 I would like to work in an IT team where I could gain new experience in front-end development.
+- 📫 How to reach me: email: ekaterinatop4ieva@yandex.ru, Telegram: @Topchieva_K, VK: https://vk.com/etopchieva.
